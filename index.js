@@ -52,7 +52,7 @@ $(document).ready(function(){
 
         let filter = $(this).attr('data-filter');
         if(filter  == 'all'){
-            $('.gallery .box').show(400)
+            $('.gallery .box').show(200)
         }else{
             $('.gallery .box').not('.'+ filter).hide(200);
             $('.gallery .box').filter('.'+ filter).show(400);

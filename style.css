@@ -409,6 +409,7 @@ header .header-2.header-active{
 
 .feature .row .content .btn{
     margin-left: 2rem;
+    padding: 0 1rem;
 }
 
 .gallery{
@@ -426,6 +427,7 @@ header .header-2.header-active{
 
 .gallery .controls .btn{
     margin: 2.3rem;
+    padding: 0 1rem;
     line-height: 4rem;
     text-align: center;
     box-shadow: 0 .3rem .5rem rgb(0, 0, 0, .3);
