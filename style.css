@@ -88,7 +88,7 @@ header .header-1 .form-container form #search {
   outline: none;
   border: 0.2rem solid #666;
   font-size: 1.5rem;
-  padding: 0.1rem;
+  padding: 0.5rem;
 }
 
 header .header-1 .form-container form #search:focus {
@@ -101,7 +101,6 @@ header .header-1 .form-container form label {
   text-align: center;
   line-height: 4rem;
   font-size: 2rem;
-  padding: 0 1rem;
   cursor: pointer;
   background: var(--blue);
   color: white;
@@ -127,7 +126,7 @@ header .header-2 .navbar ul li {
 }
 
 header .header-2 .navbar ul li a {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   color: white;
 }
 header .header-2 .navbar ul li a.active,
