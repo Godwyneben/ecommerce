@@ -237,6 +237,7 @@ button.owl-prev {
 }
 
 .arrival .box-container .box .info .subInfo {
+  text-align: center;
   padding-top: 1rem;
   border-top: 1px solid rgb(0, 0, 0, 0.3);
 }
